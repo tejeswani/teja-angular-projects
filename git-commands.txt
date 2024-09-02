@@ -1,0 +1,9 @@
+GIT COMMANDS:
+git add .(current directory)
+git commit -m(message) 'Initial commit'
+git push
+git fetch
+git pull
+git merge
+git stash
+git unstash
