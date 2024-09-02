@@ -1,0 +1,7 @@
+what is js?
+what is angular?
+what is node?
+what is react?
+what is await?
+what is async?
+what is dynamic programming?
