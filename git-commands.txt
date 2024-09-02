@@ -7,3 +7,5 @@ git pull
 git merge
 git stash
 git unstash
+git checkout <branch-name>
+git status
