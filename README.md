@@ -13,3 +13,15 @@ Observable in Angular ?
 Subject in Angular ?
 Subject multicast to many observers
 Observables are unicast 
+
+node -v: v18.20.4
+npm -version: 10.7.0
+
+
+Typescript -> An enhanced version of Javascript which is strongly typeed programming language.
+npm install -g @angular/cli
+ng new angular-observables-example
+npm start
+ctrl+/ -> comment and uncomment
+ctrl+shift+k -> to delete a line
+shift+alt+up and down arrow -> duplicate the line
